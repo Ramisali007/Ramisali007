@@ -79,7 +79,7 @@ I’m a results-driven software engineer with a passion for building scalable, e
     <img src="https://skillicons.dev/icons?i=linkedin" width="60" height="60" alt="LinkedIn" />  
   </a>  
   <a href="https://medium.com/@iramisali">  
-    <img src="https://skillicons.dev/icons?i=medium" width="60" height="60" alt="Medium" />  
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" height="60" alt="Medium" />  
   </a>  
   <a href="https://twitter.com/RamisAli123">  
     <img src="https://skillicons.dev/icons?i=twitter" width="60" height="60" alt="Twitter" />  
@@ -88,15 +88,16 @@ I’m a results-driven software engineer with a passion for building scalable, e
     <img src="https://skillicons.dev/icons?i=gmail" width="60" height="60" alt="Gmail" />  
   </a>  
   <a href="https://instagram.com/your_username">  
-    <img src="https://skillicons.dev/icons?i=instagram" width="60" height="60" alt="Instagram" />  
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="60" alt="Instagram" />  
   </a>  
-  <a href="https://www.fiverr.com/your_username">  
-    <img src="https://skillicons.dev/icons?i=fiverr" width="60" height="60" alt="Fiverr" />  
+  <a href="https://www.fiverr.com/di7007/buying?source=avatar_menu_profile">  
+    <img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" height="60" alt="Fiverr" />  
   </a>  
-  <a href="https://www.upwork.com/freelancers/~your_username">  
-    <img src="https://skillicons.dev/icons?i=upwork" width="60" height="60" alt="Upwork" />  
+  <a href="https://www.upwork.com/freelancers/~013c7488cf7df3d370">  
+    <img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" height="60" alt="Upwork" />  
   </a>  
 </div>  
+
 
 
 ---
