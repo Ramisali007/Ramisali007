@@ -1,30 +1,27 @@
-Here's your updated `README.md` file based on your profile:  
-
----
 
 # 👋 Hi, I’m **Ramis Ali**  
-🚀 **Software Engineer | Full-Stack Developer | Open-Source Enthusiast**  
+🚀 **Software Engineer | Full-Stack Developer | Open-Source Contributor**  
 
-I am a passionate software engineer dedicated to building robust, scalable, and efficient solutions across diverse tech stacks. From full-stack development to automation and web scraping, I thrive on solving complex problems and delivering high-quality software.  
+I’m a results-driven software engineer with a passion for building scalable, efficient, and innovative solutions. With expertise in full-stack development, automation, and data-driven applications, I thrive on solving complex problems and delivering high-quality software. My goal is to create impactful solutions that push the boundaries of technology.  
 
 ---
 
-## 🏆 GitHub Achievements  
+## � GitHub Achievements  
 
-<img src="https://github-profile-trophy.vercel.app/?username=ramisali123&theme=onedark&margin-w=15&margin-h=15" />  
+<img src="https://github-profile-trophy.vercel.app/?username=Ramisali007&theme=onedark&margin-w=15&margin-h=15&rank=SSS,SS,S,AAA,AA,A,B,C" alt="GitHub Trophies" />  
 
 ---
 
 ## 📊 GitHub Stats  
 
-![Ramis's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ramisali123&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ramisali123&layout=compact&theme=radical)  
+![Ramis's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ramisali007&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&line_height=27)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ramisali007&layout=compact&theme=radical&hide_border=true&langs_count=8)  
 
 ---
 
 ## 🛠️ Tech Stack  
 
-### 💻 Programming Languages  
+### 💻 **Programming Languages**  
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)  
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)  
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
@@ -33,30 +30,36 @@ I am a passionate software engineer dedicated to building robust, scalable, and 
 ![Haskell](https://img.shields.io/badge/-Haskell-5D4F85?style=flat&logo=haskell&logoColor=white)  
 ![R Language](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white)  
 
-### 🌐 Web Development  
+### 🌐 **Web Development**  
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)  
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)  
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)  
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)  
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)  
+![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=white)  
 
-### 🛠 Tools & Technologies  
+### 🛠 **Tools & Technologies**  
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)  
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)  
 ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat&logo=selenium&logoColor=white)  
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)  
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)  
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)  
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)  
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)  
 
 ---
 
-## 🚀 Current Projects  
+## 🚀 **Current Projects**  
 
-- **Web Scraping & Data Extraction** 🕷️: Building Python-based web scrapers to collect and analyze data, including research papers from NeurIPS.  
-- **Test Automation** 🤖: Implementing Selenium-based automation scripts to enhance software testing efficiency.  
-- **Full-Stack Development** 🌎: Creating dynamic and responsive web applications using React, Node.js, and databases like MySQL & MongoDB.  
+- **Web Scraping & Data Extraction** 🕷️: Developing advanced Python-based web scrapers to extract and analyze large datasets, including research papers from NeurIPS and other academic platforms.  
+- **Test Automation Framework** 🤖: Building a robust Selenium-based automation framework to streamline testing processes and improve software quality.  
+- **Full-Stack Web Applications** 🌎: Designing and deploying scalable web applications using React, Node.js, Express.js, and MongoDB/PostgreSQL.  
+- **Open-Source Contributions** 🌟: Actively contributing to open-source projects to give back to the developer community and improve my skills.  
 
 ---
 
-## 📌 Connect with Me  
+## 📌 **Connect with Me**  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/iramisali)  
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@ramisali)  
@@ -65,8 +68,7 @@ I am a passionate software engineer dedicated to building robust, scalable, and 
 
 ---
 
-⭐ **Drop a follow, let’s connect and grow together!** ⭐  
+⭐ **Let’s connect and collaborate to build something amazing!** ⭐  
 
 ---
 
-This updated `README.md` reflects your skills, projects, and personality while keeping it engaging and visually appealing. Let me know if you need any modifications! 🚀
