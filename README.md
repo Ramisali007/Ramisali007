@@ -75,28 +75,26 @@ I’m a results-driven software engineer with a passion for building scalable, e
 ## 📌 **Connect with Me**  
 
 <div align="center">  
-  <a href="https://linkedin.com/in/iramisali">  
+  <a href="https://linkedin.com/in/iramisali" style="margin: 10px;">  
     <img src="https://skillicons.dev/icons?i=linkedin" width="60" height="60" alt="LinkedIn" />  
   </a>  
-  <a href="https://medium.com/@iramisali">  
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" height="60" alt="Medium" />  
+  <a href="https://medium.com/@iramisali" style="margin: 10px;">  
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Medium_logo_Monogram.svg" width="60" height="60" alt="Medium" />  
   </a>  
-  <a href="https://twitter.com/RamisAli123">  
+  <a href="https://twitter.com/RamisAli123" style="margin: 10px;">  
     <img src="https://skillicons.dev/icons?i=twitter" width="60" height="60" alt="Twitter" />  
   </a>  
-  <a href="mailto:ramisali.k786@gmail.com">  
+  <a href="mailto:ramisali.k786@gmail.com" style="margin: 10px;">  
     <img src="https://skillicons.dev/icons?i=gmail" width="60" height="60" alt="Gmail" />  
   </a>  
-  <a href="https://instagram.com/your_username">  
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="60" alt="Instagram" />  
-  </a>  
-  <a href="https://www.fiverr.com/di7007/buying?source=avatar_menu_profile">  
-    <img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" height="60" alt="Fiverr" />  
-  </a>  
-  <a href="https://www.upwork.com/freelancers/~013c7488cf7df3d370">  
-    <img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" height="60" alt="Upwork" />  
+  <a href="https://instagram.com/your_username" style="margin: 10px;">  
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="60" height="60" alt="Instagram" />  
   </a>  
 </div>  
+
+ 
+</div>  
+
 
 
 
