@@ -62,14 +62,6 @@ I’m a results-driven software engineer with a passion for building scalable, e
 - **Full-Stack Web Applications** 🌎: Designing and deploying scalable web applications using React, Node.js, Express.js, and MongoDB/PostgreSQL.  
 - **Open-Source Contributions** 🌟: Actively contributing to open-source projects to give back to the developer community and improve my skills.  
 
----
-## 💰 Sponsor Me  
-<p align="left">
-  <br>
-  <a href="https://www.buymeacoffee.com/ibilaltariq">
-  <img src="https://github.com/affan-ch/affan-ch/blob/main/bmc-button.png" width="200"/>
-  </a>
-</p>
 
 ---
 ## 📌 **Connect with Me**  
@@ -87,7 +79,7 @@ I’m a results-driven software engineer with a passion for building scalable, e
   <a href="mailto:ramisali.k786@gmail.com" style="margin: 10px;">  
     <img src="https://skillicons.dev/icons?i=gmail" width="60" height="60" alt="Gmail" />  
   </a>  
-  <a href="https://instagram.com/your_username" style="margin: 10px;">  
+  <a href="https://instagram.com/ramis_alyy" style="margin: 10px;">  
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="60" height="60" alt="Instagram" />  
   </a>  
 </div>  
