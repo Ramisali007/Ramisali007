@@ -5,10 +5,9 @@ I’m a results-driven software engineer with a passion for building scalable, e
 
 ---
 ## 🏆 GitHub Achievements  
-
 <div align="center">  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ramisali007&theme=radical&hide_border=true" alt="GitHub Streak" />  
-</div>  
+  <img src="https://github-readme-stats.vercel.app/api?username=Ramisali007&show_icons=true&theme=radical" alt="Ramis Ali's GitHub Stats" />  
+</div>
 
 ---
 ## 🐍 Snake on Contribution Graph  
