@@ -1,7 +1,12 @@
 # 👋 Hi, I’m **Ramis Ali**  
 🚀 **Software Engineer | Full-Stack Developer | Open-Source Contributor**  
 
-I’m a results-driven software engineer with a passion for building scalable, efficient, and innovative solutions. With expertise in full-stack development, automation, and data-driven applications, I thrive on solving complex problems and delivering high-quality software. My goal is to create impactful solutions that push the boundaries of technology.  
+<div align="center"> <a href="https://iramisali.netlify.app/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" alt="Netlify Logo" width="38" /> <br/> <strong style="font-size: 1.3em; color: #00ad9f;">Visit My Portfolio</strong> </a> </div>
+  </a>
+  
+</div>
+
+</t>I’m a results-driven software engineer with a passion for building scalable, efficient, and innovative solutions. With expertise in full-stack development, automation, and data-driven applications, I thrive on solving complex problems and delivering high-quality software. My goal is to create impactful solutions that push the boundaries of technology.  
 
 ---
 ## 🏆 GitHub Achievements  
@@ -83,11 +88,5 @@ I’m a results-driven software engineer with a passion for building scalable, e
   </a>  
 </div>  
 
- 
-</div>  
-
-
-
-
 ---
-⭐ **Let’s connect and collaborate to build something amazing!** ⭐  
+⭐ **Let’s connect and collaborate to build something amazing!** ⭐
