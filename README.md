@@ -1,7 +1,7 @@
 # 👋 Hi, I’m **Ramis Ali**  
 🚀 **Software Engineer | Full-Stack Developer | Open-Source Contributor**  
                               **🚀 Visit My Profile:**
-<div align="center"> <a href="https://ramisali.netlify.app/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" alt="Netlify Logo" width="38" /> <br/> <strong style="font-size: 1.3em; color: #00ad9f;"></strong> </a> </div>
+<div align="center"> <a href="https://iramisali.netlify.app/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" alt="Netlify Logo" width="38" /> <br/> <strong style="font-size: 1.3em; color: #00ad9f;"></strong> </a> </div>
   </a>
   
 </div>
