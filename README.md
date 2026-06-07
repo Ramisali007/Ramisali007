@@ -12,29 +12,29 @@
 
 <!-- Social Badges — Skillicons style -->
 <a href="https://linkedin.com/in/iramisali">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn"/>
+  <img src="https://skillicons.dev/icons?i=linkedin" height="65" alt="LinkedIn"/>
 </a>
 <a href="https://twitter.com/RamisAli123">
-  <img src="https://skillicons.dev/icons?i=twitter" height="40" alt="Twitter"/>
+  <img src="https://skillicons.dev/icons?i=twitter" height="65" alt="Twitter"/>
 </a>
 <a href="mailto:ramisali.k786@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Gmail"/>
+  <img src="https://skillicons.dev/icons?i=gmail" height="65" alt="Gmail"/>
 </a>
 <a href="https://instagram.com/ramis_alyy">
-  <img src="https://skillicons.dev/icons?i=instagram" height="40" alt="Instagram"/>
+  <img src="https://skillicons.dev/icons?i=instagram" height="65" alt="Instagram"/>
 </a>
 <a href="https://medium.com/@iramisali">
-  <img src="./medium.svg" height="40" alt="Medium"/>
+  <img src="./medium.svg" height="65" alt="Medium"/>
 </a>
 <a href="https://iramisali.netlify.app/">
-  <img src="https://skillicons.dev/icons?i=netlify" height="40" alt="Portfolio"/>
+  <img src="https://skillicons.dev/icons?i=netlify" height="65" alt="Portfolio"/>
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Ramisali007&style=flat&color=58a6ff&label=Profile+Views" height="25" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=Ramisali007&style=for-the-badge&color=58a6ff&label=Profile+Views" height="30" alt="Profile Views"/>
 &nbsp;
-<img src="https://img.shields.io/github/followers/Ramisali007?style=flat&color=58a6ff&labelColor=1c2128&label=Followers" height="25" alt="Followers"/>
+<img src="https://img.shields.io/github/followers/Ramisali007?style=for-the-badge&color=58a6ff&labelColor=1c2128&label=Followers" height="30" alt="Followers"/>
 
 </div>
 
@@ -174,22 +174,22 @@
 <div align="center">
 
 <a href="https://linkedin.com/in/iramisali">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="52" alt="LinkedIn"/>
+  <img src="https://skillicons.dev/icons?i=linkedin" height="65" alt="LinkedIn"/>
 </a>&nbsp;&nbsp;
 <a href="https://twitter.com/RamisAli123">
-  <img src="https://skillicons.dev/icons?i=twitter" height="52" alt="Twitter"/>
+  <img src="https://skillicons.dev/icons?i=twitter" height="65" alt="Twitter"/>
 </a>&nbsp;&nbsp;
 <a href="mailto:ramisali.k786@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" height="52" alt="Gmail"/>
+  <img src="https://skillicons.dev/icons?i=gmail" height="65" alt="Gmail"/>
 </a>&nbsp;&nbsp;
 <a href="https://instagram.com/ramis_alyy">
-  <img src="https://skillicons.dev/icons?i=instagram" height="52" alt="Instagram"/>
+  <img src="https://skillicons.dev/icons?i=instagram" height="65" alt="Instagram"/>
 </a>&nbsp;&nbsp;
 <a href="https://medium.com/@iramisali">
-  <img src="./medium.svg" height="52" alt="Medium"/>
+  <img src="./medium.svg" height="65" alt="Medium"/>
 </a>&nbsp;&nbsp;
 <a href="https://iramisali.netlify.app/">
-  <img src="https://skillicons.dev/icons?i=netlify" height="52" alt="Portfolio"/>
+  <img src="https://skillicons.dev/icons?i=netlify" height="65" alt="Portfolio"/>
 </a>
 
 <br/><br/>
