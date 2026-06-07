@@ -138,7 +138,7 @@
 <table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
   <tr>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=Ramisali007&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&title_color=58a6ff&icon_color=58a6ff&text_color=adbac7&bg_color=1a1b26&rank_icon=github" alt="Overall Stats"/>
+      <img src="https://github-readme-stats-affan.vercel.app/api?username=Ramisali007&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&title_color=58a6ff&icon_color=58a6ff&text_color=adbac7&bg_color=1a1b26&rank_icon=github" alt="Overall Stats"/>
     </td>
     <td width="50%" align="center">
       <img src="https://streak-stats.demolab.com/?user=Ramisali007&theme=tokyonight&hide_border=true&background=1a1b26&ring=58a6ff&fire=ff9900&currStreakLabel=58a6ff&sideLabels=adbac7&dates=adbac7&currStreakNum=adbac7&sideNums=adbac7&stroke=58a6ff22" alt="GitHub Streak"/>
@@ -149,7 +149,7 @@
       <img src="https://github-readme-stats-affan.vercel.app/api?username=Ramisali007&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=58a6ff&icon_color=58a6ff&text_color=adbac7&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="Detailed Stats"/>
     </td>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramisali007&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&title_color=58a6ff&text_color=adbac7&bg_color=1a1b26" alt="Top Languages"/>
+      <img src="https://github-readme-stats-affan.vercel.app/api/top-langs/?username=Ramisali007&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&title_color=58a6ff&text_color=adbac7&bg_color=1a1b26" alt="Top Languages"/>
     </td>
   </tr>
 </table>
