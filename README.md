@@ -33,15 +33,13 @@
 <br/><br/><br/>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Fire.png" width="40" height="40" alt="Fire"/>
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f525/512.gif" width="40" height="40" alt="Fire"/>
   &nbsp;&nbsp;
   <a href="https://github.com/Ramisali007">
-    <img src="https://profile-counter.glitch.me/Ramisali007/count.svg" alt="Animated Profile Views"/>
+    <img src="https://komarev.com/ghpvc/?username=Ramisali007&style=for-the-badge&color=58a6ff" height="30" alt="Animated Profile Views"/>
   </a>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://badgen.net/github/followers/Ramisali007?icon=github&color=58a6ff" height="30" alt="Followers"/>
   &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Fire.png" width="40" height="40" alt="Fire"/>
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f525/512.gif" width="40" height="40" alt="Fire"/>
 </div>
 
 <br/>
