@@ -147,9 +147,6 @@ class RamisAli:
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ramisali007/Ramisali007/output/github-contribution-grid-snake.svg"/>
   <img alt="Contribution Snake" src="https://raw.githubusercontent.com/Ramisali007/Ramisali007/output/github-contribution-grid-snake-dark.svg"/>
 </picture>
-
-> To activate the snake: add `.github/workflows/snake.yml` to your profile repo (see the workflow file provided separately).
-
 </div>
 
 ---
