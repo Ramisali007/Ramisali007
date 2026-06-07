@@ -5,7 +5,7 @@
 <br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=800&height=60&lines=%F0%9F%91%8B+Hey!+I%27m+Ramis+Ali;%F0%9F%9A%80+Full-Stack+Engineer+%40+FAST-NUCES;%F0%9F%95%B7%EF%B8%8F+Python+Web+Scraping+%26+Automation;%F0%9F%A4%96+Selenium+Test+Automation+Expert;%F0%9F%8C%9F+Open-Source+Contributor;%E2%98%95+Turning+Coffee+into+Code+Daily" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=800&height=60&lines=%F0%9F%91%8B+Hey!+I%27m+Ramis+Ali;%F0%9F%9A%80+Full-Stack+Engineer+%40+FAST-NUCES;%F0%9F%95%B7%EF%B8%8F+Python+Web+Scraping+%26+Automation;%F0%9F%A4%96+Selenium+Test+Automation+Expert;%F0%9F%8C%9F+Open-Source+Contributor;%E2%98%95+Turning+Coffee+into+Code+Daily" alt="Typing SVG"/>
 </a>
 
 <br/><br/>
@@ -50,7 +50,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=18&duration=2000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&height=40&lines=class+RamisAli:;def+say_hi(self):+print(%22Let's+build+something+amazing!+⭐%22)" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=18&duration=2000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&height=40&lines=class+RamisAli:;def+say_hi(self):+print(%22Let's+build+something+amazing!+⭐%22)" alt="Typing SVG"/>
   </a>
 </div>
 
