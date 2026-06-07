@@ -24,10 +24,10 @@
   <img src="https://skillicons.dev/icons?i=instagram" height="40" alt="Instagram"/>
 </a>
 <a href="https://medium.com/@iramisali">
-  <img src="https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white" height="40" alt="Medium"/>
+  <img src="./medium.svg" height="40" alt="Medium"/>
 </a>
 <a href="https://iramisali.netlify.app/">
-  <img src="https://img.shields.io/badge/Portfolio-00C7B7?style=flat&logo=netlify&logoColor=white" height="40" alt="Portfolio"/>
+  <img src="https://skillicons.dev/icons?i=netlify" height="40" alt="Portfolio"/>
 </a>
 
 <br/><br/>
@@ -40,7 +40,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Man%20Technologist%20Light%20Skin%20Tone.png" width="35" height="35" alt="Man Technologist"/> About Me
 
 <div align="center">
   <a href="https://git.io/typing-svg">
@@ -73,7 +73,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Wrench.png" width="35" height="35" alt="Wrench"/> Tech Stack
 
 ### 💻 Programming Languages
 
@@ -107,7 +107,7 @@
 
 ---
 
-## 🚀 Current Projects
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="35" height="35" alt="Rocket"/> Current Projects
 
 <div align="center">
 
@@ -122,7 +122,7 @@
 
 ---
 
-## 📊 GitHub Analytics
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="35" height="35" alt="Bar Chart"/> GitHub Analytics
 
 <div align="center">
 
@@ -141,7 +141,7 @@
 
 ---
 
-## 🏆 GitHub Trophies
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" width="35" height="35" alt="Trophy"/> GitHub Trophies
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Ramisali007&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=7" width="100%" alt="Trophies"/>
@@ -149,7 +149,7 @@
 
 ---
 
-## 📈 Detailed Stats
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" width="35" height="35" alt="Chart Increasing"/> Detailed Stats
 
 <div align="center">
   <img src="https://github-readme-stats-affan.vercel.app/api?username=Ramisali007&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=58a6ff&icon_color=58a6ff&text_color=adbac7&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" height="200" alt="Detailed Stats"/>
@@ -157,7 +157,7 @@
 
 ---
 
-## 🐍 Contribution Snake
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" width="35" height="35" alt="Snake"/> Contribution Snake
 
 <div align="center">
 <picture>
@@ -169,7 +169,7 @@
 
 ---
 
-## 🤝 Let's Connect & Collaborate
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="35" height="35" alt="Handshake"/> Let's Connect & Collaborate
 
 <div align="center">
 
@@ -184,6 +184,12 @@
 </a>&nbsp;&nbsp;
 <a href="https://instagram.com/ramis_alyy">
   <img src="https://skillicons.dev/icons?i=instagram" height="52" alt="Instagram"/>
+</a>&nbsp;&nbsp;
+<a href="https://medium.com/@iramisali">
+  <img src="./medium.svg" height="52" alt="Medium"/>
+</a>&nbsp;&nbsp;
+<a href="https://iramisali.netlify.app/">
+  <img src="https://skillicons.dev/icons?i=netlify" height="52" alt="Portfolio"/>
 </a>
 
 <br/><br/>
