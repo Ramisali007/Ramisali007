@@ -36,7 +36,7 @@
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f525/512.gif" width="40" height="40" alt="Fire"/>
   &nbsp;&nbsp;
   <a href="https://github.com/Ramisali007">
-    <img src="https://komarev.com/ghpvc/?username=Ramisali007&style=for-the-badge&color=58a6ff" height="30" alt="Animated Profile Views"/>
+    <img src="https://count.getloli.com/get/@Ramisali007?theme=moebooru" alt="Animated Profile Views"/>
   </a>
   &nbsp;&nbsp;
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f525/512.gif" width="40" height="40" alt="Fire"/>
