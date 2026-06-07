@@ -166,7 +166,7 @@
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" width="40" height="40" alt="Trophy"/> GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ramisali007&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=7" width="100%" alt="Trophies"/>
+  <img src="https://gh-trophy.cdnsoft.net/?username=Ramisali007&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=7" width="100%" alt="Trophies"/>
 </div>
 
 <br/>
