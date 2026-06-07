@@ -191,28 +191,24 @@
 
 <a href="https://linkedin.com/in/iramisali">
   <img src="https://skillicons.dev/icons?i=linkedin" height="65" alt="LinkedIn"/>
-</a>&nbsp;&nbsp;
+</a>&nbsp;
 <a href="https://twitter.com/RamisAli123">
   <img src="https://skillicons.dev/icons?i=twitter" height="65" alt="Twitter"/>
-</a>&nbsp;&nbsp;
+</a>&nbsp;
 <a href="mailto:ramisali.k786@gmail.com">
   <img src="https://skillicons.dev/icons?i=gmail" height="65" alt="Gmail"/>
-</a>&nbsp;&nbsp;
+</a>&nbsp;
 <a href="https://instagram.com/ramis_alyy">
   <img src="https://skillicons.dev/icons?i=instagram" height="65" alt="Instagram"/>
-</a>&nbsp;&nbsp;
+</a>&nbsp;
 <a href="https://medium.com/@iramisali">
   <img src="./medium.svg?v=2" height="65" alt="Medium"/>
-</a>&nbsp;&nbsp;
+</a>&nbsp;
 <a href="https://iramisali.netlify.app/">
   <img src="https://skillicons.dev/icons?i=netlify" height="65" alt="Portfolio"/>
 </a>
 
-<br/><br/>
-
 </div>
-
-<br/>
 
 <div align="center">
 
