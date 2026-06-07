@@ -167,7 +167,7 @@
 
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Ramisali007&theme=tokyonight&no-bg=true&no-frame=true&margin-w=15&margin-h=20&column=5" alt="Trophies"/>
+    <img src="https://gh-trophy.cdnsoft.net/?username=Ramisali007&theme=tokyonight&no-bg=true&no-frame=true&margin-w=15&margin-h=20&column=5" alt="Trophies"/>
   </a>
 </div>
 
