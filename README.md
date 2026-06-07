@@ -46,7 +46,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
 </div>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Man%20Technologist%20Light%20Skin%20Tone.png" width="40" height="40" alt="Man Technologist"/> About Me
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" width="40" height="40" alt="Man Technologist"/> About Me
 
 <div align="center">
   <a href="https://git.io/typing-svg">
