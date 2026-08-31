@@ -133,8 +133,6 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="40" height="40" alt="Bar Chart"/> GitHub Analytics
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="40" height="40" alt="Bar Chart"/> 
-
 <div align="center">
 
 <table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
